@@ -118,4 +118,4 @@
 
 ![image](https://user-images.githubusercontent.com/13727567/192162513-71ab43f1-7de4-4a97-9f64-b627f19120db.png)
 
-Ждём одобрения
+Ждём одобрения или отправки на доработку
